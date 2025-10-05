@@ -1,0 +1,6 @@
+{
+    "powermode.combo.timerEnabled": "show",
+    "powermode.combo.counterEnabled": "show",
+    "powermode.combo.location": "statusbar",
+    "powermode.enabled": true
+}
