@@ -8,7 +8,7 @@ profile = {
     "job":"Web Developer",
     "description":"Tôi yêu thích việc khám phá và phát triển bản thân, đam mê sáng tạo và học hỏi những cái mới",
     "email":"dohuunguyen2003ss@gmail.com",
-    "github":"https://github.com",
+    "github":"https://github.com/dohuunguyen2003",
 }
 
 projects = [
